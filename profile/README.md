@@ -14,7 +14,7 @@ Do you need another UI style or a custom Launcher for your game or app?
 **Contact**
 [**carlosarturors@gmail.com**](mailto:carlosarturors@gmail.com)
 
-![Card Image(420 x 280) PRO](https://user-images.githubusercontent.com/49852859/236649502-e69d33f4-ce1c-483c-82d0-6d10083ea32b.png)
+![(Screenshot) - Launcher Window](https://user-images.githubusercontent.com/49852859/236664943-d76fc9f6-2d83-422b-a0ce-408bb47e1da6.png)
 
 **Mobile platforms are currently NOT supported.**  
 
