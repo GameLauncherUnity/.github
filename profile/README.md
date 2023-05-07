@@ -5,6 +5,9 @@ Also it includes a complete Launcher UI to display your News, Changelog, Alerts,
 
 Enterprise Version can manage multiple games and languages
 
+![Inline Preview (590 X 300)](https://user-images.githubusercontent.com/49852859/236664992-8133ab51-fa63-48a1-b7bc-3c8ab65e57ad.png)
+
+
 **Links**
 
 | [Website](https://game-launcher.net/) | [Asset Store](https://assetstore.unity.com/packages/slug/217526) | Video | [Documentation](https://gamelauncher.gitbook.io/documentation/) |
@@ -14,10 +17,6 @@ Do you need another UI style or a custom Launcher for your game or app?
 **Contact**
 [**carlosarturors@gmail.com**](mailto:carlosarturors@gmail.com)
 
-![(Screenshot) - Launcher Window](https://user-images.githubusercontent.com/49852859/236664943-d76fc9f6-2d83-422b-a0ce-408bb47e1da6.png)
-
 **Mobile platforms are currently NOT supported.**  
-
-
 
 **Game Launcher** was created by  _**Carlos Arturo Rodriguez Silva**_
