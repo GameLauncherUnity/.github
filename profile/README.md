@@ -10,7 +10,7 @@ Enterprise Version can manage multiple games and languages
 
 **Links**
 
-| [Website](https://game-launcher.net/) | [Asset Store](https://assetstore.unity.com/packages/slug/217526) | Video | [Documentation](https://gamelauncher.gitbook.io/documentation/) | [Discord](https://discord.gg/rJq6cEresy)
+| [Website](https://game-launcher.net/) | [Asset Store](https://assetstore.unity.com/packages/slug/217526) | [Video](https://www.youtube.com/watch?v=FhiilefzooU) | [Documentation](https://gamelauncher.gitbook.io/documentation/) | [Discord](https://discord.gg/rJq6cEresy)
 
 Do you need another UI style or a custom Launcher for your game or app?
 
