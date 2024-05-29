@@ -9,6 +9,9 @@ Enterprise Version can manage multiple games and languages
 
 ![Inline Preview (590 X 300)](https://user-images.githubusercontent.com/49852859/236664992-8133ab51-fa63-48a1-b7bc-3c8ab65e57ad.png)
 
+REQUEST ACCESS TO THIS REPOSITORY
+IF YOU ALREADY BOUGHT A LICENSE IN UNTIY ASSET STORE, PLEASE SEND YOUR INVOICE NUMBER TO @Legend IN DISCORD
+
 
 **Links**
 
